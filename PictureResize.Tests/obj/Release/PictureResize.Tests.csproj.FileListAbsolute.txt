@@ -1,0 +1,10 @@
+D:\Code\PictureResize\PictureResize.Tests\bin\Release\README.txt
+D:\Code\PictureResize\PictureResize.Tests\bin\Release\COPYING.txt
+D:\Code\PictureResize\PictureResize.Tests\bin\Release\ParallelResize.Tests.dll
+D:\Code\PictureResize\PictureResize.Tests\bin\Release\ParallelResize.Tests.pdb
+D:\Code\PictureResize\PictureResize.Tests\bin\Release\PictureResize.exe
+D:\Code\PictureResize\PictureResize.Tests\bin\Release\Jibu.dll
+D:\Code\PictureResize\PictureResize.Tests\bin\Release\PictureResize.pdb
+D:\Code\PictureResize\PictureResize.Tests\obj\Release\ResolveAssemblyReference.cache
+D:\Code\PictureResize\PictureResize.Tests\obj\Release\ParallelResize.Tests.dll
+D:\Code\PictureResize\PictureResize.Tests\obj\Release\ParallelResize.Tests.pdb
